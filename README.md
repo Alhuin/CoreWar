@@ -469,3 +469,7 @@ probablement assez rapidement votre champion en tas informe de boyaux virtuels,
 mais qui pourrait bien, au prix d’une ou deux cérémonies vaudou impliquant des
 épingles à nourrice et un endroit que l’honnêteté et la décence m’interdisent
 de préciser davantage, vous couvrir de gloire et de chatons.
+
+## Licence & crédits
+
+Ce projet a été produit sous licence MIT par <a href="https://github.com/Phelim12">Clcreuso (@Phelim12)</a>, Nbettach, Magaspar, Dguelpa et <a href="https://github.com/Alhuin">Jjanin-r (@Alhuin)</a> - voir le fichier LICENSE.md pour plus d'informations.
